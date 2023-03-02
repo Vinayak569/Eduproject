@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-02T12:04:05 IST" name="Suite" finished-at="2023-03-02T12:06:13 IST" duration-ms="127392">
+    <groups>
+    </groups>
+    <test started-at="2023-03-02T12:04:05 IST" name="Test" finished-at="2023-03-02T12:06:13 IST" duration-ms="127392">
+      <class name="guru99project.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:guru99project.LoginTest@2b48a640]" started-at="2023-03-02T12:04:05 IST" name="setup" finished-at="2023-03-02T12:04:20 IST" duration-ms="14989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:guru99project.LoginTest@2b48a640]" started-at="2023-03-02T12:04:20 IST" name="Login" finished-at="2023-03-02T12:04:54 IST" duration-ms="33400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:guru99project.LoginTest@2b48a640]" started-at="2023-03-02T12:04:54 IST" name="tearDown" finished-at="2023-03-02T12:04:55 IST" duration-ms="1550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- guru99project.LoginTest -->
+      <class name="guru99project.NewAccountTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:guru99project.NewAccountTest@49c7b90e]" started-at="2023-03-02T12:05:49 IST" name="setup" finished-at="2023-03-02T12:05:51 IST" duration-ms="1963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NewAccount()[pri:0, instance:guru99project.NewAccountTest@49c7b90e]" started-at="2023-03-02T12:05:51 IST" name="NewAccount" finished-at="2023-03-02T12:06:11 IST" duration-ms="19829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:guru99project.NewAccountTest@49c7b90e]" started-at="2023-03-02T12:06:11 IST" name="tearDown" finished-at="2023-03-02T12:06:13 IST" duration-ms="1371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- guru99project.NewAccountTest -->
+      <class name="guru99project.NewCustomerTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:guru99project.NewCustomerTest@6f46426d]" started-at="2023-03-02T12:04:55 IST" name="setup" finished-at="2023-03-02T12:04:59 IST" duration-ms="3450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NewCustomer()[pri:0, instance:guru99project.NewCustomerTest@6f46426d]" started-at="2023-03-02T12:04:59 IST" name="NewCustomer" finished-at="2023-03-02T12:05:27 IST" duration-ms="28063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:guru99project.NewCustomerTest@6f46426d]" started-at="2023-03-02T12:05:27 IST" name="tearDown" finished-at="2023-03-02T12:05:28 IST" duration-ms="1385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- guru99project.NewCustomerTest -->
+      <class name="guru99project.EditCustomerTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:guru99project.EditCustomerTest@73700b80]" started-at="2023-03-02T12:05:28 IST" name="setup" finished-at="2023-03-02T12:05:30 IST" duration-ms="2017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EditCustomer()[pri:0, instance:guru99project.EditCustomerTest@73700b80]" started-at="2023-03-02T12:05:30 IST" name="EditCustomer" finished-at="2023-03-02T12:05:49 IST" duration-ms="18630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:guru99project.EditCustomerTest@73700b80]" started-at="2023-03-02T12:05:49 IST" name="tearDown" finished-at="2023-03-02T12:05:49 IST" duration-ms="567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- guru99project.EditCustomerTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
